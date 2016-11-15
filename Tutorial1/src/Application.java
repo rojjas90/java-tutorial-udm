@@ -26,6 +26,8 @@ public class Application {
 		System.out.println(myBoolean);
 		
 		System.out.println(myByte);
+		
+		// comentario de prueba 
 	}
 
 }
